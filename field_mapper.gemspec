@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "activesupport", ">= 4.0.1"
   spec.add_dependency "american_date", "~> 1.1.0"
-  spec.add_dependency "money",         "~> 6.9.0"
+  spec.add_dependency "money",         ">= 6.9.0"
   spec.add_dependency "monetize",      "~> 1.7.0"
   spec.add_dependency "oj",            "~> 3.3.5"
 
